@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Amplify from 'aws-amplify';
+
 
 function App() {
   return (
